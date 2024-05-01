@@ -1,3 +1,5 @@
+This is the project for git course on wexler.io
+
 # News-Reader backend
 
 Django based back-end for the news reader project.
@@ -12,7 +14,7 @@ The application holds news data (articles) in relational database (PostgreSQL) a
 
 There are several ways of inputting data into the app
 
-There is an integration with resource **newsapi.org** to get the articles. 
+There is an integration with resource **newsapi.org** and to get the articles. 
 
 **NOTE** that to be able to retrieve data from newapi.org - 
 the environment variable `NEWS_PORTAL_KEY` has to be set with the relevant API key.  
